@@ -1,7 +1,6 @@
 import React from 'react';
 import useCourseStore from '../app/courseStore';
 import { useState } from 'react';
-import '../App.css';
 
 
 const CourseForm = () => {

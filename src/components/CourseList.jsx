@@ -9,7 +9,7 @@ const CourseList = () => {
 
     return (
         <div className="container mx-auto px-4 py-6 max-w-2xl">
-            <h2 className="text-2xl font-bold text-white mb-6">Course List</h2>
+            <h2 className="text-2xl font-bold text-white mb-6">My Course List</h2>
             <ul className="space-y-4">
                 {courses.map((course) => (
                     <li
