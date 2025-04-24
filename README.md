@@ -4,6 +4,10 @@ This repository is a hands-on journey into **state management in React using [Zu
 
 ---
 
+## Preview
+![Courses](https://github.com/mdshakib007/react-zustand-learning/blob/main/public/1.png)
+![Habits](https://github.com/mdshakib007/react-zustand-learning/blob/main/public/2.png)
+
 ## Project Objective
 
 The goal of this repository is to **learn and master Zustand**, a lightweight and powerful state management library for React, by building **mini-apps** such as:
@@ -71,8 +75,5 @@ react-zustand-learning/
 2.  Explore Zustand selectors
 3. Integrate Zustand with API calls
 4. Create reusable Zustand hooks across projects
-
-## Preview
-Coming Soon...
 
 > Made with ❤️ by [Md Shakib Ahmed](https://mdshakib007.vercel.app/) – striving to be better every day.
